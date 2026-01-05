@@ -1,39 +1,26 @@
-# Python-3-Do-Zero-Ao-Avancado
+# Python 3 — Do Zero ao Avançado
 
-Repositório de estudos e projetos seguindo o curso **Python 3 — Do zero ao avançado**.  
-Esse repositório contém notas, exemplos e exercícios que acompanham o conteúdo do curso. :contentReference[oaicite:1]{index=1}
+Repositório de estudos para acompanhar o curso **Python 3 — Do zero ao avançado** (Udemy).
 
----
+Contém anotações, exemplos de código e exercícios desenvolvidos durante o aprendizado, do nível básico ao avançado.
 
-## 📌 Sobre este repositório
+Curso de referência:  
+https://www.udemy.com/course/python-3-do-zero-ao-avancado/
 
-Este é o meu repositório de aprendizado completo de **Python 3**, criado para acompanhar passo a passo o conteúdo do curso da Udemy:
+## Estrutura
 
-- Conceitos básicos da linguagem  
-- Lógica e estruturas de controle  
-- Funções, módulos e pacotes  
-- Programação Orientada a Objetos (POO)  
-- Manipulação de arquivos  
-- Bibliotecas e módulos úteis  
-- Projetos práticos conforme o conteúdo do curso  
-- Extras como Django, Selenium, PySide6, testes e banco de dados  
-(Conforme conteúdo detalhado do curso) :contentReference[oaicite:2]{index=2}
+- Introdução e configuração do ambiente  
+- Python básico  
+- Python intermediário  
+- Python avançado  
+- Programação Orientada a Objetos  
+- Projetos e conteúdos extras  
 
----
+## Objetivo
 
-## 🚀 Estrutura sugerida
+Construir uma base sólida em Python 3 e manter um repositório organizado para consulta e evolução técnica.
 
-Uma estrutura inicial que irei seguir para organizar os estudos:
+## Observação
 
-📁 python-3-do-zero-ao-avancado
-│
-├── 📁 01-Introducao
-├── 📁 02-Setup-Ambiente
-├── 📁 03-Basico
-├── 📁 04-Intermediario
-├── 📁 05-Avancado
-├── 📁 06-POO
-├── 📁 07-Projetos
-├── 📁 08-Extras
-├── 📁 09-Notas
-└── README.md
+Repositório destinado apenas para fins de estudo.  
+O conteúdo do curso pertence aos seus respectivos autores.
